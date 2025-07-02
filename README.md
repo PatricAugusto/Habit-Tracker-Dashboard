@@ -68,6 +68,7 @@ Após a instalação, você pode iniciar a aplicação em modo de desenvolviment
 
 ```bash
 npm run dev
+```
 
 Este comando iniciará o servidor de desenvolvimento do Vite. Você geralmente verá uma mensagem no terminal indicando em qual endereço a aplicação está rodando (normalmente http://localhost:5173/).
 
