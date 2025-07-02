@@ -80,12 +80,12 @@ Abra seu navegador web e navegue até o endereço fornecido (ex: http://localhos
 
 ### Pontos de Valor e Diferenciais ✨
 
-** Experiência do Usuário Imersiva: O design cyberpunk não é apenas estético, mas também funcional, criando um ambiente único e motivador para o usuário interagir com seus objetivos.
+* **Experiência do Usuário Imersiva:** O design cyberpunk não é apenas estético, mas também funcional, criando um ambiente único e motivador para o usuário interagir com seus objetivos.
 
-** Foco na Consistência: A combinação do contador de streak e a visualização em calendário por hábito incentiva diretamente a consistência diária, um pilar fundamental para a formação de hábitos.
+* **Foco na Consistência:** A combinação do contador de streak e a visualização em calendário por hábito incentiva diretamente a consistência diária, um pilar fundamental para a formação de hábitos.
 
-** Visualização Clara de Progresso: As barras de progresso para as metas e os gráficos de frequência de hábitos oferecem feedback visual imediato, o que é crucial para manter a motivação.
+* **Visualização Clara de Progresso:** As barras de progresso para as metas e os gráficos de frequência de hábitos oferecem feedback visual imediato, o que é crucial para manter a motivação.
 
-** Persistência Simples e Eficaz: A utilização do Local Storage permite que os usuários salvem seus dados sem a necessidade de um backend complexo ou contas de usuário, tornando o aplicativo leve e fácil de usar.
+* **Persistência Simples e Eficaz:** A utilização do Local Storage permite que os usuários salvem seus dados sem a necessidade de um backend complexo ou contas de usuário, tornando o aplicativo leve e fácil de usar.
 
-** Código Limpo e Modular: A arquitetura baseada em componentes React e o uso de Styled Components promovem um código organizado, reutilizável e fácil de manter e escalar.
+* **Código Limpo e Modular:** A arquitetura baseada em componentes React e o uso de Styled Components promovem um código organizado, reutilizável e fácil de manter e escalar.
